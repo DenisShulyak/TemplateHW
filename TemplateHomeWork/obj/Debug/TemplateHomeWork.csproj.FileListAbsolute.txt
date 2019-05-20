@@ -1,0 +1,16 @@
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\bin\Debug\TemplateHomeWork.exe.config
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\bin\Debug\TemplateHomeWork.exe
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\bin\Debug\TemplateHomeWork.pdb
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.csprojAssemblyReference.cache
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\MainWindow.g.cs
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\App.g.cs
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork_MarkupCompile.cache
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork_MarkupCompile.lref
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\App.baml
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\MainWindow.baml
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.g.resources
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.Properties.Resources.resources
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.csproj.GenerateResource.cache
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.csproj.CoreCompileInputs.cache
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.exe
+c:\users\шулякд\source\repos\TemplateHomeWork\TemplateHomeWork\obj\Debug\TemplateHomeWork.pdb
